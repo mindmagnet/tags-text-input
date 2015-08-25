@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        DESC
 
-  s.homepage         = "https://github.com/DanielMandea/CCTagsTextView"
+  s.homepage         = "https://github.com/mindmagnet/tags-text-input"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Daniel Mandea" => "daniel.mandea@mindmagnetsoftware.com" }
-  s.source           = { :git => "https://github.com/DanielMandea/CCTagsTextView.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/mindmagnet/tags-text-input.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/daniel.mandea'
 
   s.platform     = :ios, '7.0'
