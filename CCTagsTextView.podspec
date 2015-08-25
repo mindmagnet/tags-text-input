@@ -1,24 +1,8 @@
-#
-# Be sure to run `pod lib lint CCTagsTextView.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = "CCTagsTextView"
   s.version          = "0.1.1"
-  s.summary          = "A short description of CCTagsTextView."
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
-
+  s.summary          = "Simple tags recogniser UITextView"
+  s.description      = "Use this library in order to add an text view taht recognise tags prfixed by # and retuns them into an array."
   s.homepage         = "https://github.com/mindmagnet/tags-text-input"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
