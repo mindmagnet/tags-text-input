@@ -1,0 +1,24 @@
+PODS:
+  - CCTagsTextView (0.1.0)
+  - FBSnapshotTestCase (2.0.3):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.3)
+  - FBSnapshotTestCase/Core (2.0.3)
+  - FBSnapshotTestCase/SwiftSupport (2.0.3):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - CCTagsTextView (from `../`)
+  - FBSnapshotTestCase
+  - Kiwi
+
+EXTERNAL SOURCES:
+  CCTagsTextView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CCTagsTextView: f7d97b22521489af27afcf36cf371fe189c7bbb9
+  FBSnapshotTestCase: d0eeca6bf87958e088b254396ae66873f971cfb1
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+COCOAPODS: 0.38.2

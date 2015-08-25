@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'CCTagsTextView_Example', :exclusive => true do
+  pod "CCTagsTextView", :path => "../"
+end
+
+target 'CCTagsTextView_Tests', :exclusive => true do
+  pod "CCTagsTextView", :path => "../"
+
+  pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+end

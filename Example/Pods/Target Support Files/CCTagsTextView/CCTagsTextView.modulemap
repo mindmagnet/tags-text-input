@@ -1,0 +1,6 @@
+framework module CCTagsTextView {
+  umbrella header "CCTagsTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}

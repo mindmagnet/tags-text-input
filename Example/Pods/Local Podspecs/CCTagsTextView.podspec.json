@@ -1,0 +1,25 @@
+{
+  "name": "CCTagsTextView",
+  "version": "0.1.0",
+  "summary": "A short description of CCTagsTextView.",
+  "description": "",
+  "homepage": "https://github.com/DanielMandea/CCTagsTextView",
+  "license": "MIT",
+  "authors": {
+    "Daniel Mandea": "daniel.mandea@mindmagnetsoftware.com"
+  },
+  "source": {
+    "git": "https://github.com/DanielMandea/CCTagsTextView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "CCTagsTextView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
