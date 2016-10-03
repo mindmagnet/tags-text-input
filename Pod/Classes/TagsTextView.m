@@ -12,7 +12,6 @@
 @interface TagsTextView () <UITextViewDelegate>
 
 @property (nonatomic, strong, nonnull) SyntaxHighlightTextStorage* textStorage;
-@property (nonatomic, strong, nonnull) UITextView *textView;
 @property (nonatomic, strong, nonnull) NSString *_defaultTagMarker;
 
 @end

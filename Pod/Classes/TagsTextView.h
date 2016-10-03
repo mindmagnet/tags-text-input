@@ -11,6 +11,11 @@
 
 @interface TagsTextView : UIView
 
+/**
+ * Exposed text view in case we need some custom updates 
+ */
+@property (nonatomic, strong, nonnull) UITextView *textView;
+
 #pragma mark - Setters
 
 /**
