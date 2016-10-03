@@ -7,7 +7,7 @@
 
 ##  About 
 
-This is a  wrapper over UITextView that offers support for finding and marking tags in the text entered. Take a look over example project in order to  the ideea .
+This is a  wrapper over UITextView that offers support for finding and marking tags in the text entered. Take a look over example project in order to get the ideea.
 
 ## Usage
 
