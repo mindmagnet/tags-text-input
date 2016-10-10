@@ -1257,6 +1257,9 @@
 					9AAE38748AF56CEA858EA217D3E25484 = {
 						LastSwiftMigration = 0800;
 					};
+					AA20A2D45EA7B05397F2AF6C53C83220 = {
+						LastSwiftMigration = 0800;
+					};
 				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
@@ -1785,6 +1788,7 @@
 				PRODUCT_NAME = CCTagsTextView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
@@ -1824,6 +1828,7 @@
 				PRODUCT_NAME = CCTagsTextView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;

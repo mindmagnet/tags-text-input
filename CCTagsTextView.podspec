@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "CCTagsTextView"
-  s.version          = "0.1.2"
+  s.version          = "0.2.0"
   s.summary          = "Simple tags recogniser input view using UITextView"
   s.description      = <<-DESC
                         Use this library in order to add an text view taht recognise tags prfixed by
