@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "CCTagsTextView"
-  s.version          = "0.2.0"
+  s.version          = "0.2.1"
   s.summary          = "Simple tags recogniser input view using UITextView"
   s.description      = <<-DESC
                         Use this library in order to add an text view taht recognise tags prfixed by
@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/daniel.mandea'
   s.platform     = :ios, '7.0'
   s.requires_arc = true
-  s.resource_bundles = {
-    'CCTagsTextView' => ['Pod/Assets/*.png']
-  }
+# s.resource_bundles = {
+#   'CCTagsTextView' => ['Pod/Assets/*.png']
+# }
   s.source_files = 'Pod/Classes/**/*'
 
 end
